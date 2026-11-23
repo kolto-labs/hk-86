@@ -11,7 +11,7 @@ A Discord bot that manages curated, self-assignable community roles, in an HK vo
 ## Contracts
 
 - Sign-in: client of the org-wide OpenID Connect service. No login code lives here.
-- Discord plumbing: `kolto-bot-kit`.
+- Discord plumbing: `cantina` (packages `@kolto-labs/cantina-*`).
 
 ## Status
 
