@@ -15,6 +15,6 @@ A Discord bot that manages curated, self-assignable community roles, in an HK vo
 
 ## Status
 
-Scaffold. Code is being migrated from `OpenKotOR/community-bots` with history, one draft pull request at a time. The licence has not been chosen yet, so no licence is granted until a `LICENSE` file lands.
+Scaffold. Code is being migrated from `OpenKotOR/community-bots` with history, one draft pull request at a time.
 
 Kolto Labs is an independent, non-commercial fan project, not affiliated with Lucasfilm, Disney, BioWare, Electronic Arts, Obsidian, Aspyr or Saber Interactive. This repository contains no game assets.
